@@ -1,0 +1,1 @@
+printf("profit = %d", sp-cp);
